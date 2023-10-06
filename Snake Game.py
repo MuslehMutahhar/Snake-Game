@@ -15,7 +15,7 @@ blue = pygame.Color(0, 0, 255)
 
 pygame.init()
 
-pygame.display.set_caption('Ved')
+pygame.display.set_caption('MM snake game')
 game_window = pygame.display.set_mode((window_x, window_y))
 
 fps = pygame.time.Clock()
